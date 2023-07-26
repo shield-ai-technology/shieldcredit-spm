@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "shieldcredit-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/rajdeepak27/shieldcredit-spm",
+      "state" : {
+        "branch" : "main",
+        "revision" : "ab0ac118c715446cda27152ca1b288e5c7724224"
+      }
+    }
+  ],
+  "version" : 2
+}
