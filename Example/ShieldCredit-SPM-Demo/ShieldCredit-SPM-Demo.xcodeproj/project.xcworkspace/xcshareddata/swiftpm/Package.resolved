@@ -1,4 +1,5 @@
 {
+  "originHash" : "547821a30ba7d909af8eb1bbb3f540aa7b355b94feabd777488928d5d7e57660",
   "pins" : [
     {
       "identity" : "shieldcredit-spm",
@@ -6,9 +7,18 @@
       "location" : "https://github.com/rajdeepak27/shieldcredit-spm",
       "state" : {
         "branch" : "main",
-        "revision" : "ab0ac118c715446cda27152ca1b288e5c7724224"
+        "revision" : "cb201577ed2c9b5897cf53e239cbaaf9308d7d48"
+      }
+    },
+    {
+      "identity" : "shieldfraud-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/shield-ai-technology/shieldfraud-spm.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "3787cca8d5e944891465e6dd317712623c676dd7"
       }
     }
   ],
-  "version" : 2
+  "version" : 3
 }
